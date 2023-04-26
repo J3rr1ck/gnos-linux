@@ -1,4 +1,4 @@
-# Starting point
+# gnos-linux
 
 [![build-ublue](https://github.com/j3rr1ck/gnos-linux/actions/workflows/build.yml/badge.svg)](https://github.com/j3rr1ck/gnos-linux/actions/workflows/build.yml)
 
